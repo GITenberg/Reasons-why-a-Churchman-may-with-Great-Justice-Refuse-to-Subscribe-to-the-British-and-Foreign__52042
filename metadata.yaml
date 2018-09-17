@@ -1,11 +1,16 @@
 _repo: Reasons-why-a-Churchman-may-with-Great-Justice-Refuse-to-Subscribe-to-the-British-and-Foreign__52042
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lockwood, Richard
     gutenberg_agent_id: '46642'
     url: http://www.gutenberg.org/2009/agents/46642
 description: 'See also #52265.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52042#Reasons-why-a-Churchman-may-with-Great-Justice-Refuse-to-Subscribe-to-the-British-and-Foreign_
 gutenberg_issued: '2016-05-10'
 gutenberg_type: Text
 identifiers:
