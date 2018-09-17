@@ -1,0 +1,23 @@
+_repo: Reasons-why-a-Churchman-may-with-Great-Justice-Refuse-to-Subscribe-to-the-British-and-Foreign__52042
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lockwood, Richard
+    gutenberg_agent_id: '46642'
+    url: http://www.gutenberg.org/2009/agents/46642
+description: 'See also #52265.'
+gutenberg_issued: '2016-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British and Foreign Bible Society'
+- !lcc 'BV'
+- GITenberg
+title: Reasons why a Churchman may with Great Justice Refuse to Subscribe to the British
+  and Foreign Bible Society
+url: http://www.gutenberg.org/ebooks/52042
